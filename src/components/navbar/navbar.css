@@ -1,0 +1,15 @@
+.n{
+    background-color: transparent;
+    padding: 3%;
+    position: absolute;
+
+}
+.nav-link{
+    font-size: x-large;
+
+}
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
