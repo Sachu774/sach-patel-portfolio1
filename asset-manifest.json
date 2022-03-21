@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sach-patel-portfolio1/static/css/main.ae091e9a.css",
+    "main.js": "/sach-patel-portfolio1/static/js/main.b5441e3b.js",
+    "static/js/787.dbbd0357.chunk.js": "/sach-patel-portfolio1/static/js/787.dbbd0357.chunk.js",
+    "static/media/me.png": "/sach-patel-portfolio1/static/media/me.714eb98d4f1e26ecab0c.png",
+    "static/media/address.png": "/sach-patel-portfolio1/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/sach-patel-portfolio1/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/sach-patel-portfolio1/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/sach-patel-portfolio1/index.html",
+    "main.ae091e9a.css.map": "/sach-patel-portfolio1/static/css/main.ae091e9a.css.map",
+    "main.b5441e3b.js.map": "/sach-patel-portfolio1/static/js/main.b5441e3b.js.map",
+    "787.dbbd0357.chunk.js.map": "/sach-patel-portfolio1/static/js/787.dbbd0357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae091e9a.css",
+    "static/js/main.b5441e3b.js"
+  ]
+}
